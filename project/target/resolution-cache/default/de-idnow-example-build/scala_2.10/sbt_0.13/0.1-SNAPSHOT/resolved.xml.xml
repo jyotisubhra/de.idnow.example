@@ -4,7 +4,7 @@
 		module="de-idnow-example-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20190812141816"
+		publication="20190814121157"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

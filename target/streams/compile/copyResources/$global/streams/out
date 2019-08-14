@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Test\de.idnow.example\conf\application.conf,C:\Test\de.idnow.example\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Test\de.idnow.example\conf\logback.xml,C:\Test\de.idnow.example\target\scala-2.11\classes\logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(C:\Test\de.idnow.example\conf\routes,C:\Test\de.idnow.example\target\scala-2.11\classes\routes)[0m
